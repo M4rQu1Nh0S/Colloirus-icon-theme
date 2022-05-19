@@ -12,7 +12,7 @@ fi
 
 SRC_DIR="$(cd "$(dirname "$0")" && pwd)"
 
-THEME_NAME=Colloid
+THEME_NAME=Colloirus
 COLOR_VARIANTS=('-light' '-dark' '')
 SCHEME_VARIANTS=('' '-nord' '-dracula')
 THEME_VARIANTS=('' '-purple' '-pink' '-red' '-orange' '-yellow' '-green' '-teal' '-grey')
@@ -45,7 +45,7 @@ install() {
 
   mkdir -p                                                                                 ${THEME_DIR}
   cp -r ${SRC_DIR}/src/index.theme                                                         ${THEME_DIR}
-  sed -i "s/Colloid/${2}${3}${4}${5}/g"                                                    ${THEME_DIR}/index.theme
+  sed -i "s/Colloirus/${2}${3}${4}${5}/g"                                                    ${THEME_DIR}/index.theme
 
   if [[ ${color} == '-light' ]]; then
     cp -r ${SRC_DIR}/src/{actions,apps,categories,devices,emblems,mimetypes,places,status} ${THEME_DIR}

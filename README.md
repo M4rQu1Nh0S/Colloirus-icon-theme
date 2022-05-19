@@ -1,6 +1,15 @@
-## Colloid icon theme
+## Project notes
+This is a fork of Colloid icon theme, in this project you can use Papilus icon theme for the apps and keep Colloid icons of tray, window panels and file manager sidebar icons.
+
+The install process is equal to colloid icon theme as below.
+
+## Colloirus icon theme
 
 ![1](preview.png?raw=true)
+
+## Example
+
+![2](example.png?raw=true)
 
 ## Install tips
 
@@ -20,3 +29,4 @@ Usage:  `./install.sh`  **[OPTIONS...]**
 ![1](folder-default.png?raw=true)
 ![2](folder-nord.png?raw=true)
 ![3](folder-dracula.png?raw=true)
+
