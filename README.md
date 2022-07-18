@@ -3,6 +3,16 @@ This is a fork of Colloid icon theme, in this project you can use Papilus icon t
 
 The install process is equal to colloid icon theme as below.
 
+## Requisites
+
+To use 'Collirus-icon-theme' will need install the `Colloid-theme-pack` first
+
+**Visit the Colliod-theme-pack project page:**
+
+[https://github.com/vinceliuice/Colloid-gtk-theme](https://github.com/vinceliuice/Colloid-gtk-theme)<br/>
+or<br/>
+[https://github.com/vinceliuice/Colloid-kde](https://github.com/vinceliuice/Colloid-kde)
+
 ## Colloirus icon theme
 
 ![1](preview.png?raw=true)
