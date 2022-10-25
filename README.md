@@ -1,5 +1,5 @@
 ## Project notes
-This is a fork of Colloid icon theme, in this project you can use Papilus icon theme for the apps and keep Colloid icons of tray, window panels and file manager sidebar icons.
+This is a fork of [Colloid icon theme](https://github.com/vinceliuice/Colloid-icon-theme), in this project you can use [Papilus icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) for the apps and keep **Colloid icons** of ***tray***, ***window panels*** and ***file manager sidebar's icon***.
 
 The install process is equal to colloid icon theme as below.
 
